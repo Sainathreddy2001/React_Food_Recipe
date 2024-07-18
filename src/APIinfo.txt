@@ -1,0 +1,4 @@
+API_ID=2924ba02
+API_KEY=5bddcb2069c125bfb9efe35124827718	—
+
+"https://api.edamam.com/search?q=chicken&app_id=${YOUR_APP_ID}&app_key=${YOUR_APP_KEY}&from=0&to=3&calories=591-722&health=alcohol-free"

@@ -1,0 +1,29 @@
+/* src/custom.css */
+body {
+    background-color: #FFF0F5; /* Light gray color */
+    color: #343a40; /* Dark gray for text */
+  }
+  
+  h2 {
+    color: #495057; /* Slightly darker gray for headings */
+  }
+  
+  .card {
+    background-color: #ffffff; /* White background for cards */
+    border: 1px solid #dee2e6; /* Light gray border for cards */
+  }
+  
+  .card-title, .card-text {
+    color: #343a40; /* Dark gray for card titles and text */
+  }
+  
+  .btn-primary {
+    background-color: #007bff; /* Primary color for buttons */
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3; /* Darker blue for hover state */
+    border-color: #004085;
+  }
+  

@@ -1,6 +1,6 @@
 # Project Demo Images
-[Demo Image](public/project_demo_image1.png)
-[Demo Image](public/project_demo_image2.png)
+![Demo Image](public/project_demo_image1.png)
+![Demo Image](public/project_demo_image2.png)
 
 
 # Getting Started with Create React App
